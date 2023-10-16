@@ -1,2 +1,3 @@
 # git_test
-Testing my git capabilities
+My First Github repo
+Hello Odin!
